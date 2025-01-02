@@ -1,0 +1,23 @@
+{
+  "1": {
+    "created": "2024-01-26T17:52:30.165Z",
+    "name": "ticket-Nl6Mx",
+    "ticket_embed": {
+      "title": "Central de Atendimento",
+      "color": "#ff0000",
+      "description": "Crie um ticket aí!",
+      "image": null,
+      "footer": null,
+      "channelId": "1158419164248150206",
+      "messageId": "1200498581669412925",
+      "category": "1158418724437622824",
+      "channelLogsId": "1158419785554591858"
+    },
+    "ticket_button": {
+      "label": "Abrir ticket",
+      "emoji": null,
+      "style": "Primary",
+      "custom_id": "ticket-Nl6Mx-1"
+    }
+  }
+}

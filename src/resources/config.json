@@ -1,0 +1,28 @@
+{
+    "token": "TOKEN",
+    "color": {
+        "clean": "#313338",
+        "no-clean": "#9900ff"
+    },
+
+    "guildId": "1158414434696433778",
+    
+    "mysql": {
+        "status": false,
+        "host": "127.0.0.1",
+        "port": "3306",
+        "user": "root",
+        "password": "",
+        "database": "5b-clean"
+    },
+
+    "roles": {
+        "approved": "1158418581483180072",
+        "remove": "1158418600953122847"
+    },
+
+    "channels": {
+        "whitelist.logs": "1158419720861663232",
+        "welcome": "1200501769558564935"
+    }
+}
